@@ -90,5 +90,5 @@ Simulation code and results are contained in  `Tennis.ipynb` or `Report.html`.
 All 3 variants solved the environment in about the same number of episodes.
 * MADDPG was able to retain the score across the 2000 episodes.
 * MADDPG with PSNE was much noiser (instantaneous scores).
-* SADDPG a more economical solution.
+* SADDPG a more economical solution (one policy). Performs better in a collaborative enviroment.
 
