@@ -8,7 +8,7 @@
 [PSNE]: https://arxiv.org/pdf/1706.01905.pdf
 [Layer Normalization]: https://arxiv.org/abs/1607.06450
 
-# Project 3: Collaboration and Competition
+# Collaboration and Competition
 
 ### Introduction
 
