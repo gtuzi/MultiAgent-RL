@@ -93,8 +93,11 @@ All 3 variants solved the environment in about the same number of episodes.
 * SADDPG a more economical solution (one policy). Performs better in a collaborative enviroment. Stable play.
 
 
-#### Run an episode
+### Run an episode
 Call `run.py -m <model type> -t <number of simu steps>` to run an example. Model types:
 * MADDPG
 * SADDPG
 * MADDPG_PSNE
+
+#### Example runs
+Example run videos located under `vids`
